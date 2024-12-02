@@ -1,2 +1,2 @@
 # Ola-Data-analysis
-This project reflects various details of the Ola company about their different cab services, cancellation rate, acceptance rate, type of cabs facilities etc. This data is of one month which include…
+This project highlights key aspects of Ola’s operations, including details about their various cab services, cancellation rates, acceptance rates, and the types of cab facilities offered. It incorporates tools such as SQL, Excel, and Power BI for data exploration, relational database creation, data extraction, and manipulation. Power BI was utilized to develop comprehensive dashboards leveraging Power Query and DAX functions.
